@@ -159,8 +159,8 @@ Step 5: 📊 Claude processes → Human-readable summary
 ## 👨‍💻 Author
 
 **Adarsh Singh** — Google Associate Cloud Engineer | AWS Certified | Azure Solutions Architect Expert
-- LinkedIn: [linkedin.com/in/narayanadarsh](https://linkedin.com/in/narayanadarsh)
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/AdarshProM)
+- LinkedIn: https://linkedin.com/in/narayanadarsh)
+- GitHub: https://github.com/AdarshProM)
 - Email: adarsh.narayan.official@outlook.com
 
 ---
