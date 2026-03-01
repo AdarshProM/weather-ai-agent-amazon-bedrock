@@ -70,7 +70,7 @@ User Input (Location)
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-ai-agent-amazon-bedrock.git
+git clone https://github.com/AdarshProM/weather-ai-agent-amazon-bedrock.git
 cd weather-ai-agent-amazon-bedrock
 ```
 
