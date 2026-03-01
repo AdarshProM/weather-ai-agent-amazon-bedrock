@@ -1,0 +1,19 @@
+# AWS Credentials - NEVER commit
+.env
+.aws/
+credentials
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
